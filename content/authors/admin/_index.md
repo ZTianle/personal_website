@@ -74,4 +74,4 @@ Previously, I received my Master degree, supervised by <a href="https://faculty.
 
 My current research interests are focused on: (i) Robustness and Safety on Deep Neural Networks; (ii) Machine Learning, Statistical Learning and their applications.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_tianle.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
