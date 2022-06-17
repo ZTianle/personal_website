@@ -59,7 +59,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: static/uploads/resume.pdf
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'zhangtianle95@gmail.com'
@@ -74,4 +74,4 @@ Previously, I received my Master degree, supervised by <a href="https://faculty.
 
 My current research interests are focused on: (i) Robustness and Safety on Deep Neural Networks; (ii) Machine Learning, Statistical Learning and their applications.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
